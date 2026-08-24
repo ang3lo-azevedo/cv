@@ -39,6 +39,7 @@
       #include "sections/awards.typ"
       #include "sections/skills.typ"
       #include "sections/ctf.typ"
+      #include "sections/homelab.typ"
     ],
   )
   #place(bottom)[

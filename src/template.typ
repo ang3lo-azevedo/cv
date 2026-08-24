@@ -47,7 +47,7 @@
   )
   set text(
     font: ("Roboto", "Arial", "Liberation Sans"),
-    size: 9.5pt,
+    size: 9pt,
     lang: "en",
     fallback: true,
   )
