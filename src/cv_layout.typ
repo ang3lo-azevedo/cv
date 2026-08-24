@@ -15,6 +15,7 @@
     )[angelo-azevedo]] #h(5pt)
     #fa-github() #h(4pt) #link("https://github.com/ang3lo-azevedo")[#text(fill: secondary)[ang3lo-azevedo]] #h(5pt)
     #fa-phone() #h(4pt) #phone #h(5pt)
+    #fa-signal-messenger() #h(4pt) #text(fill: secondary)[\@ang3lo.01] #h(5pt)
     #fa-map-marker-alt() #h(4pt) Lisbon, Portugal
   ]
 ]
