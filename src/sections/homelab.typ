@@ -1,7 +1,7 @@
 #import "../template.typ": *
 #custombox(colorProjects)[
   #cvproject(
-    [Self-Hosted Infrastructure & Networking],
+    [#fa-server() Self-Hosted Infrastructure & Networking],
     "2024 - Present",
     colorProjects,
   )[

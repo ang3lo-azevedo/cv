@@ -2,7 +2,7 @@
 #section([#fa-flag-checkered() Cybersecurity Competitions], colorCTF)
 #custombox(colorCTF)[
   #cvproject(
-    [#fa-globe-europe() Cybersecurity Challenge PT & ECSC],
+    [#fa-medal() Cybersecurity Challenge PT & ECSC],
     "2026",
     colorCTF,
   )[

@@ -2,7 +2,7 @@
 #section([#fa-briefcase() Experience], colorExp)
 #custombox(colorExp)[
   #cventry(
-    [#fa-user-shield() Teaching Assistant (CSF)],
+    [#fa-chalkboard-teacher() Teaching Assistant (CSF)],
     "2026 - Present",
     "Instituto Superior Técnico (IST)",
     colorExp,
