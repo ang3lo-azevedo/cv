@@ -2,7 +2,7 @@
 #custombox(colorProjects)[
   #cvproject(
     [Self-Hosted Infrastructure & Networking],
-    "Present",
+    "2024 - Present",
     colorProjects,
   )[
     #list(
