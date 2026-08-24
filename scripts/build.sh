@@ -4,7 +4,7 @@ set -e
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 ROOT_DIR="$(dirname "$DIR")"
 
-TARGET="$ROOT_DIR/Angelo_Azevedo_CV_$(date +%Y_%m)_Public.pdf"
+TARGET="$ROOT_DIR/Angelo_Azevedo_CV_$(date +%Y_%m)_Redacted.pdf"
 
 if command -v typst >/dev/null 2>&1; then
     typst compile "$ROOT_DIR/src/main.typ" "$TARGET"
