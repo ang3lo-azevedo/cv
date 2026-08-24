@@ -39,7 +39,7 @@
     colorCTF,
   )[
     #list(
-      [*Founder & Leader* of university CTF team.],
+      [*Founder & Leader* of a *3-member* university CTF team.],
     )
   ]
 

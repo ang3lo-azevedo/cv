@@ -28,7 +28,7 @@
 
   #grid(
     columns: (6.5fr, 3.5fr),
-    gutter: 0.75cm,
+    gutter: 0.6cm,
     [
       #include "sections/education.typ"
       #include "sections/experience.typ"

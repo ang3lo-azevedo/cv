@@ -42,7 +42,7 @@
     colorExp,
   )[
     #list(
-      [Developing and maintaining the *OASIS website* (#link("https://oasis.tecnico.ulisboa.pt/")[_oasis.tecnico.ulisboa.pt_]), serving as the primary portal for the research group.],
+      [Developing and maintaining the *OASIS website* (#link("https://oasis.tecnico.ulisboa.pt/")[_oasis.tecnico.ulisboa.pt_]), serving as the primary portal for a research group of *20+ researchers*.],
       [Preparing to teach the upcoming *Experimenta o Técnico* initiative (#link("https://oeiras.tecnico.ulisboa.pt/experimenta-o-tecnico/")[_link_]), developing educational materials for *robotics*, *game development*, and *satellites* activities.],
     )
   ]
@@ -54,7 +54,7 @@
     colorExp,
   )[
     #list(
-      [Taught *Python* and *automation* to children and teenagers.],
+      [Taught *Python* and *automation* to classes of *15+ children and teenagers* per semester.],
     )
   ]
 ]

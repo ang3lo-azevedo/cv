@@ -43,7 +43,7 @@
 #let conf(body) = {
   set page(
     paper: "a4",
-    margin: 1cm,
+    margin: 0.9cm,
   )
   set text(
     font: ("Roboto", "Arial", "Liberation Sans"),
