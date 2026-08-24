@@ -5,15 +5,15 @@
   #text(size: 24pt, weight: "bold", fill: colorEdu)[Ângelo Azevedo]
   #v(4pt)
   #text(fill: secondary)[
-    #fa-envelope() #h(4pt) #link("mailto:email@example.com")[#text(
+    #fa-envelope() #h(4pt) #link("mailto:ang3lo+cv@azevedos.eu.org")[#text(
       fill: secondary,
-    )[email\@example.com]] #h(5pt)
-    #fa-linkedin() #h(4pt) #link("https://www.linkedin.com/in/username")[#text(
+    )[ang3lo\@azevedos.eu.org]] #h(5pt)
+    #fa-linkedin() #h(4pt) #link("https://www.linkedin.com/in/angelo-azevedo")[#text(
       fill: secondary,
-    )[username]] #h(5pt)
-    #fa-github() #h(4pt) #link("https://github.com/username")[#text(fill: secondary)[username]] #h(5pt)
+    )[angelo-azevedo]] #h(5pt)
+    #fa-github() #h(4pt) #link("https://github.com/ang3lo-azevedo")[#text(fill: secondary)[ang3lo-azevedo]] #h(5pt)
     #fa-phone() #h(4pt) +351 XXX XXX XXX #h(5pt)
-    #fa-map-marker-alt() #h(4pt) City, Country
+    #fa-map-marker-alt() #h(4pt) Lisbon, Portugal
   ]
 ]
 
