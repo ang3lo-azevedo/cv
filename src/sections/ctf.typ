@@ -1,19 +1,18 @@
 #import "../template.typ": *
-#section([#fa-flag-checkered() #h(4pt) Cybersecurity Competitions], colorCTF)
+#section([#fa-flag-checkered() Cybersecurity Competitions], colorCTF)
 #custombox(colorCTF)[
   #cvproject(
-    [#fa-globe-europe() #h(4pt) Cybersecurity Challenge PT & ECSC],
+    [#fa-globe-europe() Cybersecurity Challenge PT & ECSC],
     "2026",
     colorCTF,
   )[
     #list(
       [Qualified through the #link("https://cybersecuritychallenge.pt/")[CSCPT (_link_)] to represent *Portugal*, and selected as *Team Captain* for the *National Team* at the #link("https://ecsc.eu/")[2026 ECSC (_link_)].],
-      [Coordinating *team strategy* and tackling *complex security challenges* against *top international talent*.],
     )
   ]
 
   #cvproject(
-    [#link("https://www.bsideslisbon.org/2025/ctf/")[#fa-trophy() #h(4pt) BSides Lisbon CTF]],
+    [#link("https://www.bsideslisbon.org/2025/ctf/")[#fa-trophy() BSides Lisbon CTF]],
     "2025",
     colorCTF,
   )[
@@ -23,7 +22,7 @@
   ]
 
   #cvproject(
-    [#link("https://sectt.github.io/")[#fa-users() #h(4pt) Security Team \@ Técnico (STT)]],
+    [#link("https://sectt.github.io/")[#fa-users() Security Team \@ Técnico (STT)]],
     "2025 - Present",
     colorCTF,
   )[
@@ -35,12 +34,24 @@
   ]
 
   #cvproject(
-    [#link("https://github.com/r4ph3cks/")[#fa-user-shield() #h(4pt) r4ph3cks CTF Team]],
+    [#link("https://github.com/r4ph3cks/")[#fa-user-shield() r4ph3cks CTF Team]],
     "2022 - Present",
     colorCTF,
   )[
     #list(
-      [*Founder & Leader* of university CTF team.]
+      [*Founder & Leader* of university CTF team.],
     )
   ]
+
+
+  #cvproject(
+    [#link("https://github.com/ang3lo-azevedo/ctfs")[#fa-book() Personal CTF Write-ups]],
+    "Present",
+    colorCTF,
+  )[
+    #list(
+      [Publishing detailed *CTF write-ups* and *scripts* at #link("https://github.com/ang3lo-azevedo/ctfs")[_github.com/ang3lo-azevedo/ctfs_].],
+    )
+  ]
+
 ]

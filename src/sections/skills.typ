@@ -1,10 +1,10 @@
 #import "../template.typ": *
-#section([#fa-tools() #h(4pt) Skills & Languages], colorLangs)
+#section([#fa-tools() Skills & Languages], colorLangs)
 #custombox(colorLangs)[
   #text(size: 9pt)[
-    #text(fill: colorLangs)[*#fa-laptop-code() #h(4pt) Programming:*] Python, Bash, C, Go, Java, Kotlin, JS/TS, SQL \
-    #text(fill: colorLangs)[*#fa-server() #h(4pt) Platforms & DevOps:*] Linux, Android (AOSP), NixOS, Windows, Docker, Git, CI/CD, Nix, Ansible, Terraform \
-    #text(fill: colorLangs)[*#fa-shield-alt() #h(4pt) Security Tools:*] Wireshark, Nmap, Burp Suite, Ghidra, IDA, Volatility, Autopsy, YARA, Splunk, Frida, GDB \
-    #text(fill: colorLangs)[*#fa-language() #h(4pt) Languages:*] *Portuguese* (Native), *English* (Fluent)
+    #text(fill: colorLangs)[*#fa-shield-alt() Security & Forensics:*] Wireshark, Nmap, Burp Suite, Ghidra, IDA, Volatility, Autopsy, YARA, Splunk, Frida, GDB \
+    #text(fill: colorLangs)[*#fa-laptop-code() Programming:*] Python, Bash, C, Go, Java, Kotlin, JS/TS, SQL \
+    #text(fill: colorLangs)[*#fa-server() Systems & Infrastructure:*] Linux, Android (AOSP), NixOS, Windows, Docker, Git, CI/CD, Nix, Ansible, Terraform \
+    #text(fill: colorLangs)[*#fa-language() Languages:*] *Portuguese* (Native), *English* (Fluent)
   ]
 ]

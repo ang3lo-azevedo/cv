@@ -1,7 +1,7 @@
 #import "../template.typ": *
-#section([#fa-graduation-cap() #h(4pt) Education], colorEdu)
+#section([#fa-graduation-cap() Education], colorEdu)
 #custombox(colorEdu)[
-  #text(fill: colorEdu)[#fa-university() #h(4pt) *Instituto Superior Técnico*] #h(1fr) #text(
+  #text(fill: colorEdu)[#fa-university() *Instituto Superior Técnico*] #h(1fr) #text(
     fill: lightgray,
     style: "italic",
     size: 9pt,
@@ -11,7 +11,7 @@
 
   #v(3pt)
 
-  #text(fill: colorEdu)[#fa-university() #h(4pt) *Instituto Superior de Engenharia de Lisboa*] #h(1fr) #text(
+  #text(fill: colorEdu)[#fa-university() *Instituto Superior de Engenharia de Lisboa*] #h(1fr) #text(
     fill: lightgray,
     style: "italic",
     size: 9pt,
