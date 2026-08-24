@@ -25,36 +25,36 @@
 
   #cventry(
     [#fa-user-secret() Red Team & Security Auditor],
-    "Feb. 2026 - Present",
+    "Feb 2026 - Present",
     "Er3bUs Security Team (Técnico)",
     colorExp,
   )[
     #list(
       [Led a comprehensive *security audit* of the GameCourse platform with a 5-member red team from STT (Security Team\@Técnico).],
-      [Discovered and reported 4+ critical vulnerabilities in staging, delivering a detailed security report and remediation strategies.],
+      [Discovered, triaged, and reported 4+ critical vulnerabilities in staging, delivering a detailed security report and remediation strategies.],
     )
   ]
 
   #cventry(
     [#fa-graduation-cap() Research Initiation Grantee],
-    "Oct. 2025 - Present",
+    "Oct 2025 - Present",
     "Instituto Superior Técnico (IST)",
     colorExp,
   )[
     #list(
-      [Developing and maintaining the *OASIS website* (#link("https://oasis.tecnico.ulisboa.pt/")[_oasis.tecnico.ulisboa.pt_]), serving as the primary portal for a research group of *20+ researchers*.],
+      [Developing and maintaining the *OASIS website* (#link("https://oasis.tecnico.ulisboa.pt/")[_oasis.tecnico.ulisboa.pt_]), working cross-functionally as the primary portal for a research group of *20+ researchers*.],
       [Preparing to teach the upcoming *Experimenta o Técnico* initiative (#link("https://oeiras.tecnico.ulisboa.pt/experimenta-o-tecnico/")[_link_]), developing educational materials for *robotics*, *game development*, and *satellites* activities.],
     )
   ]
 
   #cventry(
     [#fa-book() Programming Teacher],
-    "Dec. 2024 - Jun. 2025",
+    "Dec 2024 - Jun 2025",
     "SharkCoders",
     colorExp,
   )[
     #list(
-      [Taught *Python* and *automation* to classes of *15+ children and teenagers* per semester.],
+      [Mentored and taught *Python* and *automation* to classes of *15+ children and teenagers* per semester, fostering a learning environment with empathy.],
     )
   ]
 ]

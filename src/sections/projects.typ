@@ -9,7 +9,7 @@
     colorProjects,
   )[
     #list(
-      [Developed *device trees* and *kernel patches* for Nothing Phone (1), maintaining AOSP based custom ROM support for an active community of *20+ users*.],
+      [Developed *device trees* and *kernel patches* for Nothing Phone (1), maintaining AOSP based custom ROM support and system *reliability* for an active community of *20+ users*.],
     )
   ]
 
@@ -41,7 +41,7 @@
     colorProjects,
   )[
     #list(
-      [Contributed to a full-stack Minecraft management platform (*Next.js* & *NestJS*), focusing on *internationalization* and *codebase standardization*.],
+      [Contributed to a full-stack *SaaS* Minecraft management platform (*Next.js* & *NestJS*), focusing on *internationalization* and *codebase standardization*.],
       [Engineered a complete *multilingual system (EN/ES)* across the stack and resolved critical *TypeScript/ESLint build errors*.],
     )
   ]
