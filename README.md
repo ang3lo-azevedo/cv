@@ -1,6 +1,7 @@
 # Ângelo Azevedo's CV
 
 [![CV Preview](preview.png)](Angelo_Azevedo_CV_2026_08_Redacted.pdf)
+
 This is the public repository for my Curriculum Vitae, written in [Typst](https://typst.app/).
 
 The source code for the layout, design, and content sections are completely open source. Private information, such as my personal phone number, is redacted with placeholders in this public version.
