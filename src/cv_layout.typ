@@ -1,6 +1,6 @@
 #import "template.typ": *
 
-#let cv_layout(phone: "+351 XXX XXX XXX", signal: none) = [
+#let cv_layout(phone: "+351 XXX XXX XXX", signal: "@XXXX") = [
   #show: conf
 
   #align(center)[

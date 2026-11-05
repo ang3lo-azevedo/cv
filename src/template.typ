@@ -1,12 +1,12 @@
 #import "@preview/fontawesome:0.5.0": *
 
 #let colorEdu = rgb("#1e3a8a")
-#let colorExp = rgb("#1d4ed8")
-#let colorCTF = rgb("#ea580c")
-#let colorAwards = rgb("#d97706")
+#let colorExp = rgb("#1e3a5f")
+#let colorCTF = rgb("#c2410c")
+#let colorAwards = rgb("#b45309")
 #let colorLangs = rgb("#475569")
 #let colorTools = rgb("#115e59")
-#let colorPlatforms = rgb("#1d4ed8")
+#let colorPlatforms = rgb("#1e3a5f")
 #let colorProjects = rgb("#115e59")
 #let colorSpokenLangs = rgb("#475569")
 #let secondary = rgb("#334155")
