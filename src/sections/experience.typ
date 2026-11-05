@@ -3,12 +3,12 @@
 #custombox(colorExp)[
   #cventry(
     [#fa-chalkboard-teacher() Teaching Assistant (CSF)],
-    "2026 - Present",
+    "Aug 2026 - Nov 2026",
     "Instituto Superior Técnico (IST)",
     colorExp,
   )[
     #list(
-      [Teaching Assistant for the *Cybersecurity Forensics (CSF)* course, actively preparing and grading the final course project for over 100+ students.],
+      [Teaching Assistant for the *Cybersecurity Forensics (CSF)* course, designing lab exercises and grading the practical final projects for 100+ students.],
     )
   ]
 
@@ -19,7 +19,7 @@
     colorExp,
   )[
     #list(
-      [Created and delivered *forensics classes* to 30+ STT team members, enhancing the team's incident response and analysis capabilities (#link("https://github.com/ang3lo-azevedo/forensics-classes-stt-26")[_link_]).],
+      [Taught hands-on *memory and disk forensics* workshops for 30+ STT members using Volatility and Autopsy (#link("https://github.com/ang3lo-azevedo/forensics-classes-stt-26")[_link_]).],
     )
   ]
 
@@ -30,20 +30,20 @@
     colorExp,
   )[
     #list(
-      [Led a comprehensive *security audit* of the GameCourse platform with a 5-member red team from STT (Security Team\@Técnico).],
-      [Discovered, triaged, and reported 4+ critical vulnerabilities in staging, delivering a detailed security report and remediation strategies.],
+      [Led a 5-member team conducting a penetration test and code audit on the GameCourse platform.],
+      [Found and documented 4 critical vulnerabilities in staging, proposing patches to the maintainers.],
     )
   ]
 
   #cventry(
-    [#fa-graduation-cap() Research Initiation Grantee],
+    [#fa-chalkboard-teacher() Course Instructor & Research Grantee],
     "Oct 2025 - Present",
     "Instituto Superior Técnico (IST)",
     colorExp,
   )[
     #list(
-      [Developing and maintaining the *OASIS website* (#link("https://oasis.tecnico.ulisboa.pt/")[_oasis.tecnico.ulisboa.pt_]), working cross-functionally as the primary portal for a research group of *20+ researchers*.],
-      [Preparing to teach the upcoming *Experimenta o Técnico* initiative (#link("https://oeiras.tecnico.ulisboa.pt/experimenta-o-tecnico/")[_link_]), developing educational materials for *robotics*, *game development*, and *satellites* activities.],
+      [Instructor for the *Programming & Electronics* course (OASIS project), guiding students through *Arduino*, *IoT*, *sensors*, and *3D printing* projects.],
+      [Taught practical STEM and robotics workshops for youth through the *Oeiras Educa* initiative.],
     )
   ]
 
@@ -54,7 +54,7 @@
     colorExp,
   )[
     #list(
-      [Mentored and taught *Python* and *automation* to classes of *15+ children and teenagers* per semester, fostering a learning environment with empathy.],
+      [Taught *Python*, algorithmic thinking, and robotics to classes of 15+ students aged 8 to 17.],
     )
   ]
 ]

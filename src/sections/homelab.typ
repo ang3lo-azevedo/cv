@@ -1,5 +1,5 @@
 #import "../template.typ": *
-#v(10pt)
+#v(2pt)
 #custombox(colorProjects)[
   #cvproject(
     [#fa-server() Self-Hosted Infrastructure & Networking],

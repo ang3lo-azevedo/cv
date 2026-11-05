@@ -2,12 +2,12 @@
 #section([#fa-flag-checkered() Cybersecurity Competitions], colorCTF)
 #custombox(colorCTF)[
   #cvproject(
-    [#fa-medal() Cybersecurity Challenge PT & ECSC],
+    [#fa-medal() ECSC & Cybersecurity Challenge PT],
     "2026",
     colorCTF,
   )[
     #list(
-      [Qualified through the #link("https://cybersecuritychallenge.pt/")[CSCPT (_link_)] to represent *Portugal*, and selected as *Team Captain* for the *National Team* at the #link("https://ecsc.eu/")[2026 ECSC (_link_)].],
+      [Selected as *Team Captain* for the *National Team* at the #link("https://ecsc.eu/")[2026 ECSC (_link_)], having qualified through the #link("https://cybersecuritychallenge.pt/")[CSCPT (_link_)] to represent *Portugal*.],
     )
   ]
 
@@ -17,7 +17,7 @@
     colorCTF,
   )[
     #list(
-      [*2nd Place* - Competed in diverse *security challenges* demonstrating practical cybersecurity skills.],
+      [*2nd Place* - Solved forensics, web, and cryptography challenges in a 24-hour competition on the biggest portuguese cybersecurity event.],
     )
   ]
 
@@ -27,9 +27,8 @@
     colorCTF,
   )[
     #list(
-      [Técnico's Student CTF Team - *\#1 CTF team in Portugal, 55th worldwide*.],
-      [*Active member* participating in *numerous CTF competitions*.],
-      [Specialization in *forensics*, *web* and *reverse engineering* challenges.],
+      [Técnico's Student CTF Team (\#1 in Portugal, 245th worldwide). Active international competitor.],
+      [Focus on *forensics*, *web*, and *reverse engineering* challenges.],
     )
   ]
 
@@ -39,7 +38,7 @@
     colorCTF,
   )[
     #list(
-      [*Founder & Leader* of a *3-member* university CTF team.],
+      [*Founder & Leader* of university CTF team.],
     )
   ]
 
