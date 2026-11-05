@@ -1,6 +1,6 @@
 #import "template.typ": *
 
-#let cv_layout(phone: "+351 XXX XXX XXX") = [
+#let cv_layout(phone: "+351 XXX XXX XXX", signal: none) = [
   #show: conf
 
   #align(center)[
@@ -15,7 +15,9 @@
         fill: secondary,
       )[angelo-azevedo]] #h(5pt)
       #fa-github() #link("https://github.com/ang3lo-azevedo")[#text(fill: secondary)[ang3lo-azevedo]] #h(5pt)
-      #fa-signal-messenger() #text(fill: secondary)[\@ang3lo.01] #h(5pt)
+      #if signal != none [
+        #fa-signal-messenger() #text(fill: secondary)[#signal] #h(5pt)
+      ]
       #fa-phone() #phone #h(5pt)
     ]
   ]

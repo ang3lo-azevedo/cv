@@ -1,16 +1,16 @@
 #import "@preview/fontawesome:0.5.0": *
 
-#let colorEdu = rgb("#380c7a")
-#let colorExp = rgb("#19315c")
-#let colorCTF = rgb("#480a93")
-#let colorAwards = rgb("#c47001")
-#let colorLangs = rgb("#22819e")
-#let colorTools = rgb("c0392b")
-#let colorPlatforms = rgb("4b558c")
-#let colorProjects = rgb("#db1f2c")
-#let colorSpokenLangs = rgb("96556e")
-#let secondary = rgb("404040")
-#let lightgray = rgb("808080")
+#let colorEdu = rgb("#1e3a8a")
+#let colorExp = rgb("#1d4ed8")
+#let colorCTF = rgb("#ea580c")
+#let colorAwards = rgb("#d97706")
+#let colorLangs = rgb("#475569")
+#let colorTools = rgb("#059669")
+#let colorPlatforms = rgb("#1d4ed8")
+#let colorProjects = rgb("#059669")
+#let colorSpokenLangs = rgb("#475569")
+#let secondary = rgb("#334155")
+#let lightgray = rgb("#64748b")
 
 #let section(title, color) = {
   text(size: 12pt, weight: "bold", fill: color)[#title]
