@@ -1,13 +1,13 @@
 #import "@preview/fontawesome:0.5.0": *
 
-#let colorEdu = rgb("#1e3a8a")
-#let colorExp = rgb("#0f766e")
-#let colorCTF = rgb("#9a3412")
-#let colorAwards = rgb("#b45309")
+#let colorEdu = rgb("#1e40af")
+#let colorExp = rgb("#1d5ea8")
+#let colorCTF = rgb("#c05621")
+#let colorAwards = rgb("#d97706")
 #let colorLangs = rgb("#475569")
-#let colorTools = rgb("#3730a3")
-#let colorPlatforms = rgb("#0f766e")
-#let colorProjects = rgb("#3730a3")
+#let colorTools = rgb("#0f766e")
+#let colorPlatforms = rgb("#1d5ea8")
+#let colorProjects = rgb("#0f766e")
 #let colorSpokenLangs = rgb("#475569")
 #let secondary = rgb("#334155")
 #let lightgray = rgb("#64748b")
@@ -33,7 +33,7 @@
 
 #let custombox(color, content) = {
   box(
-    stroke: 1pt + color,
+    stroke: 0.75pt + color,
     radius: 3mm,
     inset: 6pt,
     width: 100%,
