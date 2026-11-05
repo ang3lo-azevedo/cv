@@ -2,7 +2,7 @@
 
 #let colorEdu = rgb("#1e3a8a")
 #let colorExp = rgb("#0f766e")
-#let colorCTF = rgb("#ea580c")
+#let colorCTF = rgb("#9a3412")
 #let colorAwards = rgb("#b45309")
 #let colorLangs = rgb("#475569")
 #let colorTools = rgb("#3730a3")
