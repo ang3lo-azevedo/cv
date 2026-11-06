@@ -57,7 +57,7 @@
     colorProjects,
   )[
     #list(
-      [Engineered a *declarative NixOS security workstation* with modular environments for forensics and reverse engineering, maintaining *95+ security packages* in NUR (#link("https://github.com/ang3lo-azevedo/nur-packages")[_link_]) including custom Volatility 3 plugins and LEAPP triage tools.],
+      [Engineered a *declarative NixOS security workstation* with modular environments for forensics and reverse engineering, maintaining *35+ packages* in NUR (#link("https://github.com/ang3lo-azevedo/nur-packages")[_link_]).],
     )
   ]
 ]

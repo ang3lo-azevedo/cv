@@ -7,7 +7,7 @@
     colorCTF,
   )[
     #list(
-      [Selected as *Team Captain* for the *National Team* at the #link("https://ecsc.eu/")[2026 ECSC (_link_)], having qualified through the #link("https://cybersecuritychallenge.pt/")[CSCPT (_link_)] to represent *Portugal*.],
+      [*Team Captain* for the *Portuguese Team* at the #link("https://ecsc.eu/")[*2026 ECSC* (_link_)], having qualified through the #link("https://cybersecuritychallenge.pt/")[*CSCPT* (_link_)].],
     )
   ]
 
