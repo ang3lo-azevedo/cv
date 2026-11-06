@@ -8,7 +8,7 @@
     colorExp,
   )[
     #list(
-      [Teaching Assistant for the *Cybersecurity Forensics (CSF)* course in the Técnico Computer Science M.Sc. program, designing lab exercises and grading final projects for 100+ students.],
+      [Teaching Assistant for the *Cybersecurity Forensics (CSF)* course in the Técnico Computer Science M.Sc. program, *designing lab exercises* and *grading final projects* for *100+ students*.],
     )
   ]
 
@@ -19,7 +19,7 @@
     colorExp,
   )[
     #list(
-      [Taught hands on *memory and disk forensics* workshops for 30+ STT members using Volatility and Autopsy (#link("https://github.com/ang3lo-azevedo/forensics-classes-stt-26")[_link_]).],
+      [Taught hands on *memory and disk forensics* workshops for *30+ STT members* using Volatility and Autopsy (#link("https://github.com/ang3lo-azevedo/forensics-classes-stt-26")[_link_]).],
     )
   ]
 

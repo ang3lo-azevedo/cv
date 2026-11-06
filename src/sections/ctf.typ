@@ -17,7 +17,7 @@
     colorCTF,
   )[
     #list(
-      [*2nd Place* - Solved forensics, web, and cryptography challenges in a 24 hour competition on the biggest portuguese cybersecurity event.],
+      [*2nd Place* - Solved *forensics*, *web* and *reverse engineering* challenges in a 24 hour competition on the *biggest portuguese cybersecurity event*.],
     )
   ]
 
@@ -27,7 +27,7 @@
     colorCTF,
   )[
     #list(
-      [Técnico's Student CTF Team (\#1 in Portugal, 245th worldwide). Active international competitor.],
+      [Member of *Técnico's Student CTF Team* (*\#1 in Portugal*, 245th worldwide). *Active international competitor*.],
       [Focus on *forensics*, *web*, and *reverse engineering* challenges.],
     )
   ]
