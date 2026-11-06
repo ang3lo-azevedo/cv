@@ -12,6 +12,16 @@
   ]
 
   #cvproject(
+    [#fa-cogs() FACT (Forensic Artifact Creation Toolkit)],
+    "2026",
+    colorProjects,
+  )[
+    #list(
+      [Engineered an automated simulation framework using *Python*, *Packer*, *QEMU* and *PowerShell* to generate multi OS forensic labs, forging realistic attack timelines (*Registry*, *BitLocker*, *ActivitiesCache*, memory dumps) without evidence contamination for *100+ students*.],
+    )
+  ]
+
+  #cvproject(
     [#link("https://github.com/ang3lo-azevedo/voltageos-spacewar")[#fa-mobile-alt() Voltage OS Android & Kernel Trees]],
     "2025 - Present",
     colorProjects,

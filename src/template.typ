@@ -43,7 +43,7 @@
 #let conf(body) = {
   set page(
     paper: "a4",
-    margin: 0.9cm,
+    margin: (x: 0.85cm, top: 0.7cm, bottom: 0cm),
   )
   set text(
     font: ("Roboto", "Arial", "Liberation Sans"),
@@ -51,6 +51,6 @@
     lang: "en",
     fallback: true,
   )
-  set par(spacing: 0.45em)
+  set par(spacing: 0.40em)
   body
 }

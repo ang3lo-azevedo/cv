@@ -8,7 +8,7 @@
     colorExp,
   )[
     #list(
-      [Teaching Assistant for the *Cybersecurity Forensics (CSF)* course, designing lab exercises and grading the practical final projects for 100+ students.],
+      [Teaching Assistant for the *Cybersecurity Forensics (CSF)* course in the Técnico Computer Science M.Sc. program, designing lab exercises and grading final projects for 100+ students.],
     )
   ]
 
@@ -30,8 +30,7 @@
     colorExp,
   )[
     #list(
-      [Led a 5-member team conducting a penetration test and code audit on the GameCourse platform.],
-      [Found and documented 4 critical vulnerabilities in staging, proposing patches to the maintainers.],
+      [Led a 5-member team conducting a penetration test and code audit on GameCourse, reporting 4 critical staging vulnerabilities and remediation patches.],
     )
   ]
 
@@ -42,8 +41,7 @@
     colorExp,
   )[
     #list(
-      [Instructor for the *Programming & Electronics* course (OASIS project), guiding students through *Arduino*, *IoT*, *sensors*, and *3D printing* projects.],
-      [Taught practical STEM and robotics workshops for youth through the *Oeiras Educa* initiative.],
+      [Instructor for the *Programming & Electronics* course (OASIS) and *Oeiras Educa* workshops, teaching *cryptography*, *steganography*, *metadata analysis*, *OSINT* and *hash cracking* alongside *Arduino* and *IoT*.],
     )
   ]
 
