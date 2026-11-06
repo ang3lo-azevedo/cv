@@ -52,7 +52,7 @@
     colorExp,
   )[
     #list(
-      [Taught *Python*, algorithmic thinking, and robotics to classes of 15+ students aged 8 to 17.],
+      [Taught *Python*, *algorithmic thinking*, and *robotics* to classes of 15+ students aged 8 to 17.],
     )
   ]
 ]
