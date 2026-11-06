@@ -36,16 +36,12 @@ for sub_src in "$ROOT_DIR"/26/*/src/main.typ "$ROOT_DIR"/26/*/main.typ "$ROOT_DI
     if [ -f "$sub_src" ]; then
         sub_dir="$(dirname "$sub_src")"
         if [ "$(basename "$sub_dir")" = "src" ]; then
-            sub_name="$(basename "$(dirname "$sub_dir")")"
             target_dir="$(dirname "$sub_dir")"
         else
-            sub_name="$(basename "$sub_dir")"
             target_dir="$sub_dir"
         fi
-        sub_target="$ROOT_DIR/Angelo_Azevedo_CV_${DATE_SUFFIX}_${sub_name^^}.pdf"
-        compile_typst "$sub_src" "$sub_target"
         compile_typst "$sub_src" "$target_dir/Angelo_Azevedo_CV_${DATE_SUFFIX}.pdf"
-        echo "Compiled tailored CV to $sub_target and $target_dir/Angelo_Azevedo_CV_${DATE_SUFFIX}.pdf"
+        echo "Compiled tailored CV to $target_dir/Angelo_Azevedo_CV_${DATE_SUFFIX}.pdf"
     fi
 done
 
