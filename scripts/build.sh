@@ -31,8 +31,8 @@ compile_typst() {
 
 compile_typst "$ROOT_DIR/src/main.typ" "$TARGET"
 
-# Compile any tailored profiles (e.g. 26/*/src/main.typ, 26/*/main.typ, src/*/main.typ)
-for sub_src in "$ROOT_DIR"/26/*/src/main.typ "$ROOT_DIR"/26/*/main.typ "$ROOT_DIR"/src/*/main.typ; do
+# Compile any tailored profiles (e.g. 26/*/src/main.typ, [0-9][0-9]/*/src/main.typ, src/*/main.typ)
+for sub_src in "$ROOT_DIR"/[0-9][0-9]/*/src/main.typ "$ROOT_DIR"/[0-9][0-9]/*/main.typ "$ROOT_DIR"/src/*/main.typ; do
     if [ -f "$sub_src" ]; then
         sub_dir="$(dirname "$sub_src")"
         if [ "$(basename "$sub_dir")" = "src" ]; then
