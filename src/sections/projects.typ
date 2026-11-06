@@ -17,7 +17,7 @@
     colorProjects,
   )[
     #list(
-      [Engineered an automated simulation framework using *Python*, *Packer*, *QEMU* and *PowerShell* to generate multi OS forensic labs, forging realistic attack timelines (*Registry*, *BitLocker*, *ActivitiesCache*, memory dumps) without evidence contamination for *100+ students*.],
+      [Engineered an automated simulation framework (*Python*, *Packer*, *QEMU*) to generate multi-OS forensic labs, forging realistic attack timelines (*Registry*, *BitLocker*, memory dumps) without evidence contamination for *100+ students*.],
     )
   ]
 
@@ -47,7 +47,7 @@
     colorProjects,
   )[
     #list(
-      [Reverse-engineered ARM64 binaries (*Mario Kart 8 Deluxe*) in *IDA Pro*, isolating NVN capability checks and using *pwndbg* over an *Atmosphere GDB stub* to hijack the UI state machine and test enabling Switch 2 features on Switch 1.],
+      [Reverse-engineered ARM64 binaries (*Mario Kart 8 Deluxe*) in *IDA Pro*, isolating NVN capability checks and using *pwndbg* over an *Atmosphere GDB stub* to hijack the UI state machine.],
     )
   ]
 

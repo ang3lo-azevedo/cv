@@ -17,7 +17,7 @@
     colorCTF,
   )[
     #list(
-      [*2nd Place* - Solved forensics, web, and cryptography challenges in a 24-hour competition on the biggest portuguese cybersecurity event.],
+      [*2nd Place* - Solved forensics, web, and cryptography challenges in a 24 hour competition on the biggest portuguese cybersecurity event.],
     )
   ]
 
@@ -44,12 +44,12 @@
 
 
   #cvproject(
-    [#link("https://github.com/ang3lo-azevedo/ctfs")[#fa-book() Personal CTF Write-ups]],
+    [#link("https://github.com/ang3lo-azevedo/ctfs")[#fa-book() Personal CTF Writeups]],
     "Present",
     colorCTF,
   )[
     #list(
-      [Publishing detailed *CTF write-ups* and *scripts* at #link("https://github.com/ang3lo-azevedo/ctfs")[_github.com/ang3lo-azevedo/ctfs_].],
+      [Publishing detailed *CTF writeups* and *scripts* at #link("https://github.com/ang3lo-azevedo/ctfs")[_github.com/ang3lo-azevedo/ctfs_].],
     )
   ]
 

@@ -30,7 +30,7 @@
     colorExp,
   )[
     #list(
-      [Led a 5 member team conducting a *penetration test* and *code audit* on GameCourse, a university platform, reporting 4 *critical staging vulnerabilities* and suggesting remediation patches.],
+      [Led a 5-member team conducting a *penetration test* and *code audit* on GameCourse, reporting 4 *critical staging vulnerabilities* and remediation patches.],
     )
   ]
 
