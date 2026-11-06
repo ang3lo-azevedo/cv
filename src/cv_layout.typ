@@ -24,7 +24,9 @@
 
   #v(4pt)
   #text()[
-    Computer Science student specializing in *cybersecurity*, focusing on *security engineering* and *vulnerability research*. *Scout since age 7*, drummer, and skimboarder, with an active interest in *cinematography* and *multimedia*. Practical background in *forensics*, *incident response*, and *platform hardening* across red-team audits, academic labs, and CTFs.
+    Computer Science student specializing in *cybersecurity*, focusing on *security engineering* and *vulnerability research*. \
+    *Scout since age 7*, drummer and skimboarder, with an active interest in *cinematography* and *multimedia*. \
+    Practical background in *forensics*, *incident response*, and *platform hardening* across red team audits, academic labs, and CTFs.
   ]
   #v(4pt)
 

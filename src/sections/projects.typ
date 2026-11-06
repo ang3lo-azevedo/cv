@@ -42,7 +42,7 @@
   ]
 
   #cvproject(
-    [#link("https://github.com/ang3lo-azevedo")[#fa-gamepad() Console Binary Reverse Engineering (Switch)]],
+    [#fa-gamepad() Console Binary Reverse Engineering (Switch)],
     "2026",
     colorProjects,
   )[
