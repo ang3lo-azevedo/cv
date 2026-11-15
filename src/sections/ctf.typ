@@ -2,55 +2,53 @@
 #section([#fa-flag-checkered() Cybersecurity Competitions], colorCTF)
 #custombox(colorCTF)[
   #cvproject(
-    [#fa-medal() ECSC & Cybersecurity Challenge PT],
+    [ECSC & Cybersecurity Challenge PT],
     "2026",
     colorCTF,
   )[
     #list(
-      [*Team Captain* for the *Portuguese Team* at the #link("https://ecsc.eu/")[*2026 ECSC* (_link_)], having qualified through the #link("https://cybersecuritychallenge.pt/")[*CSCPT* (_link_)].],
+      [*Team Captain* for the Portuguese Team at the #link("https://ecsc.eu/")[2026 ECSC (_link_)], having qualified through the #link("https://cybersecuritychallenge.pt/")[CSCPT (_link_)].],
     )
   ]
 
   #cvproject(
-    [#link("https://www.bsideslisbon.org/2025/ctf/")[#fa-trophy() BSides Lisbon CTF]],
+    [#link("https://www.bsideslisbon.org/2025/ctf/")[BSides Lisbon CTF]],
     "2025",
     colorCTF,
   )[
     #list(
-      [*2nd Place* - Solved *forensics*, *web* and *reverse engineering* challenges in a 24 hour competition on the *biggest portuguese cybersecurity event*.],
+      [*2nd Place* - Solved forensics, web, and reverse engineering challenges in a 24 hour competition at Portugal's largest cybersecurity event.],
     )
   ]
 
   #cvproject(
-    [#link("https://sectt.github.io/")[#fa-users() Security Team \@ Técnico (STT)]],
+    [#link("https://sectt.github.io/")[Security Team \@ Técnico (STT)]],
     "2025 - Present",
     colorCTF,
   )[
     #list(
-      [Member of *Técnico's Student CTF Team* (*\#1 in Portugal*, 245th worldwide). *Active international competitor*.],
-      [Focus on *forensics*, *web*, and *reverse engineering* challenges.],
+      [Member of Técnico's Student CTF Team (*\#1 in Portugal*, 245th worldwide), active international competitor.],
+      [Focus on forensics, web, and reverse engineering challenges.],
     )
   ]
 
   #cvproject(
-    [#link("https://github.com/r4ph3cks/")[#fa-user-shield() r4ph3cks CTF Team]],
+    [#link("https://github.com/r4ph3cks/")[r4ph3cks CTF Team]],
     "2022 - Present",
     colorCTF,
   )[
     #list(
-      [*Founder & Leader* of university CTF team.],
+      [Founder and leader of university CTF team.],
     )
   ]
 
-
   #cvproject(
-    [#link("https://github.com/ang3lo-azevedo/ctfs")[#fa-book() Personal CTF Writeups]],
+    [#link("https://github.com/ang3lo-azevedo/ctfs")[Personal CTF Writeups]],
     "Present",
     colorCTF,
   )[
     #list(
-      [Publishing detailed *CTF writeups* and *scripts* at #link("https://github.com/ang3lo-azevedo/ctfs")[_github.com/ang3lo-azevedo/ctfs_].],
+      [Publishing detailed CTF writeups and scripts at #link("https://github.com/ang3lo-azevedo/ctfs")[_github.com/ang3lo-azevedo/ctfs_].],
     )
   ]
-
 ]
