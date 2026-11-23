@@ -24,7 +24,7 @@
 
   #v(4pt)
   #text()[
-    Computer Science student specializing in cybersecurity, focusing on security engineering and vulnerability research. \
+    Computer Science student specializing in *cybersecurity*, focusing on security engineering and vulnerability research. \
     Scout since age 7, drummer and skimboarder, with an active interest in cinematography and multimedia. \
     Practical background in forensics, incident response, and platform hardening across red team audits, academic labs, and CTFs.
   ]
@@ -35,19 +35,19 @@
     gutter: 0.6cm,
     [
       #include "sections/education.typ"
-      #v(10pt)
+      #v(9pt)
       #include "sections/experience.typ"
-      #v(10pt)
+      #v(9pt)
       #include "sections/projects.typ"
 
     ],
     [
       #include "sections/awards.typ"
-      #v(10pt)
+      #v(9pt)
       #include "sections/skills.typ"
-      #v(10pt)
+      #v(9pt)
       #include "sections/ctf.typ"
-      #v(10pt)
+      #v(9pt)
       #include "sections/homelab.typ"
     ],
   )

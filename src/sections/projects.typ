@@ -50,14 +50,4 @@
       [Reverse-engineered ARM64 binaries (Mario Kart 8 Deluxe) in IDA Pro, isolating NVN capability checks and using pwndbg over an Atmosphere GDB stub to hijack the UI state machine.],
     )
   ]
-
-  #cvproject(
-    [#link("https://github.com/ang3lo-azevedo/dotfiles")[NixOS Security Workstation & NUR Packages]],
-    "2024 - Present",
-    colorProjects,
-  )[
-    #list(
-      [Engineered a declarative NixOS security workstation with modular environments for forensics and reverse engineering, maintaining *35+ packages* in NUR (#link("https://github.com/ang3lo-azevedo/nur-packages")[_link_]).],
-    )
-  ]
 ]

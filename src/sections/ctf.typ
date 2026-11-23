@@ -17,7 +17,7 @@
     colorCTF,
   )[
     #list(
-      [*2nd Place* - Solved forensics, web, and reverse engineering challenges in a 24 hour competition at Portugal's largest cybersecurity event.],
+      [*2nd Place* - Solved forensics, web, and reverse engineering challenges in a 24-hour competition at Portugal's largest cybersecurity event.],
     )
   ]
 
@@ -27,7 +27,7 @@
     colorCTF,
   )[
     #list(
-      [Member of Técnico's Student CTF Team (*\#1 in Portugal*, 245th worldwide), active international competitor.],
+      [Member of Técnico's Student CTF Team (*\#1 in Portugal*, 245th worldwide); active international competitor.],
       [Focus on forensics, web, and reverse engineering challenges.],
     )
   ]
@@ -44,7 +44,7 @@
 
   #cvproject(
     [#link("https://github.com/ang3lo-azevedo/ctfs")[Personal CTF Writeups]],
-    "Present",
+    "2024 - Present",
     colorCTF,
   )[
     #list(
