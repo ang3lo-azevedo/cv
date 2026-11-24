@@ -56,7 +56,7 @@
     margin: (x: 0.85cm, top: 0.65cm, bottom: 0.65cm),
   )
   set text(
-    font: ("Roboto", "Arial", "Liberation Sans"),
+    font: ("Liberation Sans", "Noto Sans", "DejaVu Sans"),
     size: 9pt,
     lang: "en",
     fallback: true,
