@@ -35,19 +35,19 @@
     gutter: 0.6cm,
     [
       #include "sections/education.typ"
-      #v(9pt)
+      #v(10.0pt)
       #include "sections/experience.typ"
-      #v(9pt)
+      #v(10.0pt)
       #include "sections/projects.typ"
 
     ],
     [
       #include "sections/awards.typ"
-      #v(9pt)
+      #v(10.0pt)
       #include "sections/skills.typ"
-      #v(9pt)
+      #v(10.0pt)
       #include "sections/ctf.typ"
-      #v(9pt)
+      #v(10.0pt)
       #include "sections/homelab.typ"
     ],
   )

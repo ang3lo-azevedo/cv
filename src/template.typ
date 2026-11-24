@@ -15,7 +15,7 @@
 #let darktitle = rgb("#0f172a")
 
 #let section(title, color) = {
-  block(width: 100%, below: 9.5pt)[
+  block(width: 100%, below: 4.0pt)[
     #text(size: 11pt, weight: "bold", fill: color)[#title]
     #v(1.5pt)
     #line(length: 100%, stroke: 1pt + color)
@@ -23,7 +23,7 @@
 }
 
 #let cventry(title, date, location, color, content) = {
-  block(width: 100%, breakable: false, below: 9.5pt)[
+  block(width: 100%, breakable: false, below: 10.5pt)[
     #text(fill: color, weight: "bold")[
       #show link: set text(fill: color)
       #title
@@ -34,7 +34,7 @@
 }
 
 #let cvproject(title, date, color, content) = {
-  block(width: 100%, breakable: false, below: 9.5pt)[
+  block(width: 100%, breakable: false, below: 10.5pt)[
     #text(fill: color, weight: "bold")[
       #show link: set text(fill: color)
       #title
@@ -53,11 +53,11 @@
 #let conf(body) = {
   set page(
     paper: "a4",
-    margin: (x: 0.85cm, top: 0.65cm, bottom: 0.65cm),
+    margin: (x: 0.80cm, top: 0.65cm, bottom: 0.65cm),
   )
   set text(
-    font: ("Liberation Sans", "Noto Sans", "DejaVu Sans"),
-    size: 9pt,
+    font: ("Noto Sans", "DejaVu Sans"),
+    size: 9.0pt,
     lang: "en",
     fallback: true,
   )
